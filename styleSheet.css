@@ -3,3 +3,7 @@ h1 {
     font-weight: 24px;
     text-align: center;
 }
+img {
+    width: 200px;
+    height: 400px;
+}
